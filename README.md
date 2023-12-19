@@ -29,8 +29,5 @@ Contributions are welcome:
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Open a new Pull Request.
 
-## License
-This project is open source and available under [specify the license].
-
 ## Contact
-For more information or support, please contact [Your Contact Information].
+For more information or support, please contact Onaib Faisal.
