@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const cakeContainer = document.getElementById('cake-container');
   const ageInput = document.getElementById('age-input');
   let candleCount = 0;
-  const maxCandles = 50; // Maximum number of candles
+  const maxCandles = 150; // Maximum number of candles
 
   clickableArea.addEventListener('click', function(event) {
     if (candleCount < maxCandles) {
